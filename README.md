@@ -2,11 +2,8 @@
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
-- <b>Azure Cloud Practice</b>
-  - [Creating Resources and subcription on Azure Cloud](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+- <b>Azure Cloud Skill practice</b>
+  - [Azure Cloud Management Basics](https://github.com/syedtech12/Azure-Cloud-Management-Basic-Project)
  
 
 <h2>:page_with_curl: Certificates</h2>

@@ -1,9 +1,18 @@
-<h1>Hi, I'm Syed! <br/><a href="https://github.com/syedtech12/Syedtech12">InformationTechnology</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Computing Student</a>
+<h1>Hi, I'm Syed! <br/><a href="https://github.com/syedtech12/Syedtech12">I.T. Specialist</a>, <a href="https://www.linkedin.com/in/syed-jafri12/">Cloud Computing Student</a>
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
-- <b>Azure Cloud Skill practice</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - 
+- <b>Microsoft Azure</b>
   - [Azure Cloud Management Basics](https://github.com/syedtech12/Azure-Cloud-Management-Basic-Project)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  
+  
  
 
 <h2>:page_with_curl: Certificates</h2>

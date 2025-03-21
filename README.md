@@ -19,7 +19,7 @@
 
 - [CourseCareers Information Technology Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Coursra: Google I.T. Support Certificate](https://coursera.org/share/af44424ce17e614430bc928226135d59)
-- [Lonestar: CCNA1 Introduction to Networks completion](https://d2l.lonestar.edu/d2l/awards/1440824/#/myAwards)
+- [Lonestar: CCNA1 Introduction to Networks completion](https://drive.google.com/file/d/1OqOm0H5G-dZ0NBGBuQxGENrmigzooydZ/view?usp=drive_link)
 - [Cengage: Microsoft Office Introductory Certificate](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <h2> 🤳 Connect with me:</h2>

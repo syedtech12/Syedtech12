@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/syedtech12/azure-network-protocols/tree/main)
     
  - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ]() 
+  - [VPN Setup in Virtual Machine ](https://github.com/syedtech12/Setting-up-a-VPN) 
   
  
 

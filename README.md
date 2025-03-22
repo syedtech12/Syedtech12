@@ -9,7 +9,7 @@
   - 
 - <b>Microsoft Azure</b>
   - [Azure Cloud Management Basics](https://github.com/syedtech12/Azure-Cloud-Management-Basic-Project)
-  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Setting Up Active Directory using Azure VMs](https://github.com/syedtech12/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
   
   

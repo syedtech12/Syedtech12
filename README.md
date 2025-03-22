@@ -6,11 +6,13 @@
   - [osTicket: Prerequisites and Installation](https://github.com/syedtech12/osticket-prerequisite)
   - [osTicket: Post-Installation Configuration](https://github.com/syedtech12/post-install-config/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/syedtech12/Ticket-Lifecycle/tree/main)
-  - 
+    
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/syedtech12/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/syedtech12/azure-network-protocols/tree/main)
-  
+    
+ - <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ]() 
   
  
 
@@ -27,17 +29,3 @@
 
 [linkedin]: https://www.linkedin.com/in/syed-jafri12/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

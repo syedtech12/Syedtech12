@@ -1,4 +1,4 @@
-<h1>Hi, I'm Syed! <br/><a href="https://github.com/syedtech12/Syedtech12">I.T. Specialist</a>, <a href="https://www.linkedin.com/in/syed-jafri12/">Cloud Computing Student</a>
+<h1>Hi, I'm Syed <br/><a href="https://github.com/syedtech12/Syedtech12"> an I.T. Specialist</a>, <a href="https://www.linkedin.com/in/syed-jafri12/"> and A Cloud Computing Student</a>
 
 <h2>👨‍💻 I.T. Projects:</h2>
 

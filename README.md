@@ -9,7 +9,7 @@
   - 
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/syedtech12/Configure-AD)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/syedtech12/azure-network-protocols/tree/main)
   
   
  

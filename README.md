@@ -1,4 +1,4 @@
-<h1>Hello I'm Syed<br/><a href="https://www.linkedin.com/in/syed-jafri12/">an I.T. Specialist</a>
+<h1>Hello I'm Syed, an <a href="https://www.linkedin.com/in/syed-jafri12/">IT Specialist</a>☺</h1>
 
 <h2> 🖥️ My IT Projects 🖥️:</h2>
 

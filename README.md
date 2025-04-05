@@ -18,7 +18,7 @@
 
 <h2>:page_with_curl: Certificates</h2>
 
-- [CourseCareers Information Technology Certificate]()
+- [CourseCareers Information Technology Certificate](https://profile.coursecareers.com/it/syed.jafri)
 - [Coursra: Google I.T. Support Certificate](https://coursera.org/share/af44424ce17e614430bc928226135d59)
 - [Lonestar: CCNA1 Introduction to Networks completion](https://drive.google.com/file/d/1OqOm0H5G-dZ0NBGBuQxGENrmigzooydZ/view?usp=drive_link)
 - [Cengage: Microsoft Office Introductory Certificate](https://drive.google.com/file/d/1XJsOH2Jld-Xnx1ND5IvrLvypErXsRCcm/view?usp=drive_link)

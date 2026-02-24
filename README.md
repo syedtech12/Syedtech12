@@ -17,7 +17,7 @@
  
 
 <h2>:page_with_curl: Certificates</h2>
-
+- [CompTIA Security+ SY0-701 Certificate] (https://cp.certmetrics.com/comptia/en/public/verify/credential/47d4b6ee8a884290b21df2d974aece71)
 - [CourseCareers Information Technology Certificate](https://profile.coursecareers.com/it/syed.jafri)
 - [Coursra: Google I.T. Support Certificate](https://coursera.org/share/af44424ce17e614430bc928226135d59)
 - [Lonestar: CCNA1 Introduction to Networks completion](https://drive.google.com/file/d/1OqOm0H5G-dZ0NBGBuQxGENrmigzooydZ/view?usp=drive_link)

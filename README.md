@@ -26,7 +26,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="SyedJafri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="28px" src="https://github.com/user-attachments/assets/d22ade20-8bff-4bda-9fbd-4a5267bf1b60" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/syed-jafri12/
-

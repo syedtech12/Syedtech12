@@ -1,5 +1,4 @@
-<h1>Hello I'm Syed, an <a href="https://www.linkedin.com/in/syed-jafri12/">IT Specialist</a>☺</h1>
-
+<h1>Hello I'm Syed, an <a href="https://www.linkedin.com/in/syed-jafri12/">IT Analyst</a>🧑‍💻
 <h2> 🖥️ My IT Projects 🖥️:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>

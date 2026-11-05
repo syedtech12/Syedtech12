@@ -13,8 +13,8 @@
  - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/syedtech12/Setting-up-a-VPN) 
   
--<b>Linux Server Hardware & Troubleshooting</b>
- - [Linux Server & Hardware Troubleshooting Runbook] (https://github.com/syedtech12/Linux-Server-Hardware-Troubleshooting-Runbook)
+- <b>Linux Server Hardware & Troubleshooting</b>
+ - [Linux Server & Hardware Troubleshooting Runbook ](https://github.com/syedtech12/Linux-Server-Hardware-Troubleshooting-Runbook)
    
 
 <h2>:page_with_curl: Certificates</h2>
